@@ -1,0 +1,14 @@
+#pip3 install -r requirements.txt
+
+h5py
+tqdm
+numpy
+pandas
+matplotlib
+opencv-python
+albumentations
+torch
+torchvision
+torchsummary
+tensorboardX
+#pillow<7
